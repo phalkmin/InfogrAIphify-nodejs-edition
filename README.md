@@ -1,6 +1,6 @@
 ## InfogrAIphify: Create Infographics from Articles
 
-This repository contains the code for InfogrAIphify, a web application that automatically generates infographics from article URLs AND a submission for the [Cloudflare AI Challenge](https://dev.to/devteam/join-us-for-the-cloudflare-ai-challenge-3000-in-prizes-5f99).
+This repository contains the code for InfogrAIphify, a web application that automatically generates infographics from article URLs, a version of the [Python script](https://github.com/phalkmin/InfogrAIphify) that uses FREE LLMs AND a submission for the [Cloudflare AI Challenge](https://dev.to/devteam/join-us-for-the-cloudflare-ai-challenge-3000-in-prizes-5f99).
 
 Layout and code is a [Next.js](https://nextjs.org/) project bootstrapped with [`c3`](https://developers.cloudflare.com/pages/get-started/c3).
 
@@ -12,7 +12,7 @@ Layout and code is a [Next.js](https://nextjs.org/) project bootstrapped with [`
 
 ## Demo
 
-Demo can be [seen and played here](https://chooseyouraidventure.pages.dev/)
+Demo can be [seen here](https://infograiphify-nodejs-edition.pages.dev/)
 
 ## Getting Started
 
@@ -21,7 +21,7 @@ To run InfogrAIphify locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-     git clone <URL of this repository>
+     git clone https://github.com/phalkmin/InfogrAIphify-nodejs-edition/
     ```
 
 2. **Install dependencies:**
